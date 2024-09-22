@@ -1,1 +1,11 @@
-# links 
+# Number row characters
+- '!'		'-Exclmation mark/point'
+- '@'		-At sign"
+- '#'		-Hashtag, pound key
+- '$'		-Dollar Sign
+- '%'		-Percent
+- '^'		-Caret
+- '&'		-And Sign
+- '*'		-Asterisk
+- '('		-Open Bracket
+- ')'		-Close Bracket
