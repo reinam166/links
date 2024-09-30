@@ -23,3 +23,15 @@
 - **It's Super Effective!** 
 ![screenshot of pokemon reference](https://media.pocketgamer.com/FCKEditorFiles/super-effective.jpg)
 - ~~It's Not Effective...~~
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-A (select all)
+- Alt-Tab(Switch Tabs/apps)
+
+Shortcuts I would like to start using: 
+- Win-D (show desktop)
+- F11 or Windows logo key + Up arrow. (maximize window)
+- Windows Key + Ctrl + D (creates a new desktop profile)
+
