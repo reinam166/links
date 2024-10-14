@@ -14,6 +14,7 @@
 - [BrightSpace 🌌](https://learn.georgebrown.ca/d2l/home)
 - [GitHub 🐈](https://github.com/)
 - [Atklass 📚](https://atklass.com/)
+- [My Favourite Games](docs/cli.md)
 
 # Experiments 🧬
 # Falling down
