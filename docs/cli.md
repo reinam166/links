@@ -19,5 +19,3 @@ Fighting Games are my favourite genre of games to play, nothing beats playing as
 
 ### **3. Genshin Impact**
 Genshin Impact is the main game I play every day now. It's an open-world RPG allowing you to explore and fight monsters as you level up your characters to get them stronger. As you explore around there are chests and puzzles to solve to gain currency. You save up an amount and pull on the gatcha system for the desired character you want. The game offers a new story every patch and has spanned for 7 years for each of the own 7 nations. This game has helped me through quarantine and I still have so much enjoyment and anticipate for what comes next in the story.
-
-![genshin](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fhlivxdgsj7e91.jpg)
